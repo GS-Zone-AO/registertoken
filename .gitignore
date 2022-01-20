@@ -1,0 +1,7 @@
+Sources/*.log
+Sources/*.bak
+*.exe
+*.obj
+*.log
+*.zip
+*.rar
